@@ -1,0 +1,16 @@
+# Gradle
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc)
+local.properties
+
+# IDE (Android Studio) files
+.idea/
+*.iml
+
+# OS
+.DS_Store
+
+# Keystore files (if any)
+*.jks
